@@ -11,7 +11,7 @@ const Nav2 = (props) => {
         <h4>Home</h4>
         <h4>About</h4>
         <h4>Contact</h4>
-        <h4>{data}</h4>
+        <h4>Services</h4>
         {props.theme}
 
     </div>
